@@ -1,0 +1,6 @@
+HOSPITALITY_coffee.db
+*.db
+*.db-journal
+Hotel_sales.csv
+_pycache_/
+*.pyc
