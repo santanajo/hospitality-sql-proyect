@@ -1,0 +1,788 @@
+﻿sale_hour,sale_date,drink_name,milk_type,quantity,revenue,takeaway,syrup,location
+06:52:00,25/03/2026,Tea,0,1,0,No,0,Coburt
+06:31:00,25/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+06:31:00,25/03/2026,Americano,0,1,0,Yes,0,Coburt
+06:33:00,25/03/2026,Espresso,0,1,0,No,0,Coburt
+06:33:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+06:43:00,25/03/2026,Flat White,Regular,1,0,Yes,0,Coburt
+06:46:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+06:48:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+06:52:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+06:52:00,25/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:01:00,25/03/2026,D Espresso,0,1,0,No,0,Coburt
+07:05:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:05:00,25/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:06:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:10:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:10:00,25/03/2026,Cappuccino,Low Fat,1,0,No,0,Coburt
+07:11:00,25/03/2026,Espresso Lungo,0,1,0,No,0,Coburt
+07:15:00,25/03/2026,Latte,Regular,1,0,No,0,Coburt
+07:15:00,25/03/2026,Small French P,0,1,0,No,0,Coburt
+07:12:00,25/03/2026,Cappuccino,Oat Milk,1,0,No,0,Coburt
+07:12:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:16:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:16:00,25/03/2026,D Espresso,0,1,0,No,0,Coburt
+07:16:00,25/03/2026,Green tea,0,1,0,No,0,Coburt
+07:26:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:23:00,25/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+07:21:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:20:00,25/03/2026,D Espresso,0,1,0,No,0,Coburt
+07:20:00,25/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+07:25:00,25/03/2026,Americano,0,1,0,Yes,0,Coburt
+07:19:00,25/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:18:00,25/03/2026,Espresso Lungo,0,1,0,No,0,Coburt
+07:18:00,25/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+07:29:00,25/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:29:00,25/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+07:28:00,25/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+07:23:00,25/03/2026,Latte,Regular,1,0,No,0,Coburt
+07:23:00,25/03/2026,Americano,0,2,0,No,0,Coburt
+07:21:00,25/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:27:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:26:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:26:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:33:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:32:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:33:00,25/03/2026,D Espresso,0,1,0,No,0,Coburt
+07:47:00,25/03/2026,Flat White,Regular,1,0,No,0,Coburt
+07:47:00,25/03/2026,Tea Early Grey,,2,0,No,0,Coburt
+07:47:00,25/03/2026,Americano,0,1,0,Yes,0,Coburt
+07:41:00,25/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:37:00,25/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:36:00,25/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:34:00,25/03/2026,Espresso Lungo,0,1,0,No,0,Coburt
+07:36:00,25/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+07:37:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:34:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:47:00,25/03/2026,Green tea,0,1,0,No,0,Coburt
+07:50:00,2026?03/25,Americano,0,2,0,No,0,Coburt
+07:55:00,25/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:01:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+07:58:00,25/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:00:00,25/03/2026,Latte,Skinny,1,0,No,0,Coburt
+08:03:00,25/03/2026,Latte,Regular,1,0,No,0,Coburt
+08:01:00,25/03/2026,D Espresso,0,1,0,No,0,Coburt
+08:12:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+08:01:00,25/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:17:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+08:10:00,25/03/2026,Americano,Cream,1,0,No,0,Coburt
+08:10:00,25/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+08:16:00,20026/03/25,Latte,Oat Milk,1,0,No,0,Coburt
+08:17:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+08:17:00,25/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+08:16:00,25/03/2026,Latte,Regular,1,0,Yes,0,Coburt
+08:15:00,25/03/2026,Flat White,Regular,1,0,No,0,Coburt
+08:19:00,25/03/2026,Latte,Regular,1,0,No,0,Coburt
+08:17:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+08:33:00,25/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+08:29:00,26/03/2026,Latte,Almond,1,0,,Vanilla,Coburt
+08:29:00,25/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+08:19:00,25/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+08:36:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+08:36:00,25/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:29:00,25/03/2026,Tea Iris Break,Ice,1,0,No,0,Coburt
+08:37:00,25/03/2026,Large French P,0,1,0,No,0,Coburt
+08:35:00,25/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+08:37:00,25/03/2026,Americano,0,2,0,No,0,Coburt
+08:36:00,25/03/2026,Tea PP Mint,0,1,0,No,0,Coburt
+08:38:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+08:37:00,25/03/2026,Americano,hot Milk OTS,1,0,No,0,Coburt
+08:44:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+08:39:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+08:39:00,25/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+09:17:00,25/03/2026,Flat White,Regular,1,0,No,0,Coburt
+08:51:00,25/03/2026,D Espresso,0,1,0,No,0,Coburt
+08:46:00,25/03/2026,Latte,Regular,1,0,Yes,0,Coburt
+08:49:00,25/03/2026,Large French P,0,1,0,No,0,Coburt
+08:53:00,25/03/2026,Americano,0,1,0,Yes,0,Coburt
+08:52:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+08:53:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+08:53:00,25/03/2026,Americano,0,2,0,No,0,Coburt
+08:53:00,25/03/2025,Hot Chocolate,Regular,3,0,No,0,Coburt
+08:53:00,25/03/2025,Hot Chocolate,Regular,4,0,No,0,Coburt
+08:56:00,25/03/2026,Americano,Oat Milk OTS,1,0,No,0,Coburt
+09:03:00,25/03/2026,Small French P,0,1,0,No,0,Coburt
+09:06:00,26/03/2026,M French P,0,1,0,No,0,Coburt
+09:07:00,25/03/2026,Flat White,Regular,1,0,No,0,Coburt
+09:07:00,25/03/2026,Tea Early Grey,0,2,0,No,0,Coburt
+09:11:00,25/03/2026,D Espresso,0,1,0,No,0,Coburt
+09:11:00,25/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+09:13:00,25/03/2026,Large French P,0,1,0,No,0,Coburt
+09:16:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+09:28:00,25/03/2026,Flat White,Regular,1,0,No,0,Coburt
+09:29:00,25/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+09:31:00,25/03/2026,Flat White,Regular,1,0,No,0,Coburt
+09:34:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+09:33:00,25/03/2026,Hot Chocolate,Regular,1,0,No,0,Coburt
+09:38:00,25/03/2026,Latte,Oat Milk Ice,1,0,No,0,Coburt
+09:51:00,25/03/2026,Flat White,Regular,1,0,No,0,Coburt
+09:51:00,25/03/2026,Large French P,0,2,0,No,0,Coburt
+09:48:00,25/03/2026,Macchiato,Regular,1,0,No,0,Coburt
+09:35:00,25/03/2026,Americano,Cream,1,0,No,0,Coburt
+09:58:00,25/03/2026,Americano,0,1,0,No,0,Coburt
+09:58:00,25/03/2026,Green tea,0,2,0,No,0,Coburt
+10:01:00,25/03/2026,Americano,0,2,0,No,0,Coburt
+10:26:00,25/03/2026,Flat White,Regular,1,0,No,0,Coburt
+10:26:00,25/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+10:02:00,25/03/2026,Flat White,Regular,1,0,No,0,Coburt
+08:53:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+09:00:00,25/03/2026,Latte,Regular,1,5.5,No,0,Lemuels
+09:20:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+09:29:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+09:29:00,25/03/2026,Large French P,0,2,7,No,0,Lemuels
+09:31:00,25/03/2026,Spark Small,0,1,4,No,0,Lemuels
+09:33:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+09:33:00,25/03/2026,Cappuccino,Regular,2,5.5,No,0,Lemuels
+09:33:00,25/03/2026,Flat White,Regular,3,5.5,No,0,Lemuels
+09:54:00,25/03/2026,Flat White,Regular,1,5.5,No,0,Lemuels
+09:54:00,25/03/2026,Flat White,Regular,2,5.5,No,0,Lemuels
+09:54:00,25/03/2026,Tea Iris Break,0,1,4.5,No,0,Lemuels
+09:54:00,25/03/2026,Flat White,Regular,2,11,No,0,Lemuels
+09:57:00,25/03/2026,Coke Cola,0,1,4.5,No,0,Lemuels
+10:05:00,25/03/2026,Americano,0,2,9,No,0,Lemuels
+10:05:00,25/03/2026,Mocha,Regular,1,6.5,No,0,Lemuels
+10:05:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+10:05:00,25/03/2026,Tea Iris Break,0,2,4.5,No,0,Lemuels
+10:11:00,25/03/2026,Americano Dec,0,1,4.5,No,0,Lemuels
+10:11:00,25/03/2026,Flat White,Regular,2,5.5,No,0,Lemuels
+10:05:00,25/03/2026,Small French P,0,1,5.5,No,0,Lemuels
+10:17:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+10:32:00,25/03/2026,Flat White,Regular,1,5.5,No,0,Lemuels
+10:42:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+10:53:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+10:53:00,25/03/2026,Americano,hot Milk OTS,2,4.5,No,0,Lemuels
+10:54:00,25/03/2026,Tea Iris Break,0,1,4.5,No,0,Lemuels
+10:58:00,25/03/2026,Americano,hot Milk OTS,1,4.5,No,0,Lemuels
+10:58:00,25/03/2026,Cappuccino,Regular,2,5.5,No,0,Lemuels
+10:59:00,25/03/2026,Flat White,Regular,1,5.5,No,0,Lemuels
+10:59:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+10:59:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+10:59:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+11:06:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+11:06:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+11:11:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+11:11:00,25/03/2026,Cappuccino,0,1,5.5,No,0,Lemuels
+11:23:00,25/03/2026,Spark Small,0,1,4,No,0,Lemuels
+11:24:00,25/03/2026,Cappuccino,OAT MILK,1,5.5,No,0,Lemuels
+11:24:00,25/03/2026,Orange Juice,0,1,6,No,0,Lemuels
+11:30:00,25/03/2026,Flat White,Regular,1,5.5,No,0,Lemuels
+11:33:00,25/03/2026,Large French P,0,1,7,No,0,Lemuels
+11:35:00,25/03/2026,Diet Coke,0,1,4,No,0,Lemuels
+11:37:00,25/03/2026,Tea MINT,0,1,4.5,No,0,Lemuels
+11:37:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+11:36:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+12:30:00,25/03/2026,Spark Small,0,1,4,No,0,Lemuels
+12:30:00,25/03/2026,Orange Juice,0,1,6,No,0,Lemuels
+12:38:00,25/03/2026,Diet Coke,0,1,4.5,No,0,Lemuels
+12:38:00,25/03/2026,Diet Coke,0,1,4.5,No,0,Lemuels
+12:31:00,25/03/2026,Spark Large,0,1,7,No,0,Lemuels
+12:31:00,25/03/2026,Still W Large,0,1,7,No,0,Lemuels
+12:20:00,25/03/2026,Spark Large,0,1,7,No,0,Lemuels
+12:23:00,25/03/2026,Spark Small,0,1,4,No,0,Lemuels
+12:19:00,25/03/2026,Spark Large,0,1,7,No,0,Lemuels
+11:46:00,25/03/2026,Tea MINT,0,1,4.5,No,0,Lemuels
+11:38:00,25/03/2026,Tea Iris Break,0,1,4.5,No,0,Lemuels
+11:38:00,25/03/2026,Tea Early Grey,0,1,4.5,No,0,Lemuels
+12:06:00,2026?03/25,Pt GUINNES,0,1,7.5,No,0,Lemuels
+12:06:00,25/03/2026,Pt GUINNES,0,1,7.5,No,0,Lemuels
+12:06:00,25/03/2026,Pint Heneken,0,1,8,No,0,Lemuels
+12:06:00,25/03/2026,Flat White,0,1,5.5,No,0,Lemuels
+12:06:00,25/03/2026,Spark Small,0,1,4,No,0,Lemuels
+12:06:00,25/03/2026,Still W Small,0,1,4,No,0,Lemuels
+12:54:00,25/03/2026,Latte,OAT MILK,1,5.5,No,0,Lemuels
+12:58:00,25/03/2026,Flat White,Regular,1,5.5,No,0,Lemuels
+13:00:00,25/03/2026,Spark Large,0,1,7,No,0,Lemuels
+13:03:00,25/03/2026,Tea Iris Break,0,1,4.5,No,0,Lemuels
+13:03:00,25/03/2026,Flat White,Regular,1,5.5,No,0,Lemuels
+13:03:00,25/03/2026,Espresso,0,1,3.5,No,0,Lemuels
+13:03:00,25/03/2026,Tea Lemon,0,1,4.5,No,0,Lemuels
+13:03:00,25/03/2026,Coke Cola,0,1,4.5,No,0,Lemuels
+13:26:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+13:26:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+13:31:00,25/03/2026,Coke Cola,0,1,4.5,No,0,Lemuels
+13:31:00,25/03/2026,Coke Cola,0,1,4.5,No,0,Lemuels
+13:30:00,25/03/2026,Latte,Coconut,1,5.5,No,0,Lemuels
+13:30:00,25/03/2026,Cappuccino,Regular,1,6.5,No,Vanilla,Lemuels
+13:43:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+13:43:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+13:46:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+13:36:00,25/03/2026,Tea Iris Break,0,1,4.5,No,0,Lemuels
+13:54:00,25/03/2026,Spark Small,0,1,4,No,0,Lemuels
+14:09:00,25/03/2026,Pint Hophouse,0,1,8.5,No,0,Lemuels
+14:33:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+14:33:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+14:33:00,25/03/2026,Indian Tonic,0,1,5.5,No,0,Lemuels
+14:13:00,25/03/2026,Latte,Skinny,1,5.5,1,0,Lemuels
+14:19:00,25/03/2026,Spark Small,0,1,4,No,0,Lemuels
+14:23:00,25/03/2026,Coke Cola,0,1,4.5,No,0,Lemuels
+14:23:00,25/03/2026,Sprite,0,1,4.5,No,0,Lemuels
+13:22:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+13:22:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+13:22:00,25/03/2026,Macchiato,Regular,1,4,No,0,Lemuels
+13:22:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+13:21:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+13:21:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+13:17:00,25/03/2026,Sgl Baileys,0,1,6.5,No,0,Lemuels
+13:11:00,25/03/2026,Tea PP Mint,0,1,4.5,No,0,Lemuels
+13:11:00,25/03/2026,Espresso,Regular,1,3.5,No,0,Lemuels
+13:13:00,25/03/2026,Peroni 330,0,1,6.5,No,0,Lemuels
+13:13:00,25/03/2026,Peroni 330,0,1,6.5,No,0,Lemuels
+13:13:00,25/03/2026,Sgl Teelings,0,1,12,No,0,Lemuels
+13:13:00,25/03/2026,Coke Cola,0,1,4.5,No,0,Lemuels
+13:07:00,25/03/2026,Spark Large,0,1,7,No,0,Lemuels
+13:07:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+13:05:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+13:05:00,25/03/2026,Cappuccino,Regular,1,5.5,No,0,Lemuels
+15:00:00,2026?03/25,Cappuccino,Regular,1,5.5,No,0,Lemuels
+15:00:00,25/03/2026,Cappuccino D,OAT MILK,1,5.5,No,0,Lemuels
+15:07:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+15:07:00,25/03/2026,Americano,0,1,4.5,No,0,Lemuels
+15:07:00,25/03/2026,Fanta Orange,0,1,4.5,No,0,Lemuels
+14:48:00,25/03/2026,Tea Iris Break,0,1,4.5,No,0,Lemuels
+14:44:00,25/03/2026,Cappuccino,OAT MILK,1,5.5,No,0,Lemuels
+14:44:00,25/03/2026,Flat White,Regular,1,5.5,No,0,Lemuels
+14:48:00,25/03/2026,Matcha,Coconut,1,6.5,No,0,Lemuels
+14:48:00,25/03/2026,Latte,Regular,1,5.5,No,0,Lemuels
+06:34:00,26/03/2026,Flat White,Regular,1,0,Yes,0,Coburt
+06:38:00,26/03/2026,Tea Camomile,0,1,0,No,0,Coburt
+06:37:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+06:46:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+06:49:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+06:56:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+06:56:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+06:57:00,26/03/2026,Large French P,0,1,0,No,0,Coburt
+07:01:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+07:01:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+07:04:00,26/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:04:00,26/03/2026,Espresso Lungo,0,1,0,No,0,Coburt
+07:07:00,26/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:09:00,26/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:10:00,26/03/2026,Small French P,0,1,0,No,0,Coburt
+07:10:00,26/03/2026,Green tea,0,1,0,No,0,Coburt
+07:10:00,26/03/2026,Small French P,0,1,0,No,0,Coburt
+07:13:00,26/03/2026,Latte,Skinny,1,0,Yes,Vanilla,Coburt
+07:13:00,26/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:13:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+07:15:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+07:15:00,26/03/2026,Cappuccino,Skinny,1,0,No,0,Coburt
+07:15:00,26/03/2026,D Espresso,0,1,0,No,0,Coburt
+07:17:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+07:18:00,26/03/2026,Cappuccino,Oat Milk,1,0,No,0,Coburt
+07:18:00,26/03/2026,Latte,Regular,1,0,No,0,Coburt
+07:19:00,26/03/2026,Large French P,0,1,0,No,0,Coburt
+07:22:00,26/03/2026,Large French P,0,1,0,No,0,Coburt
+07:20:00,26/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:24:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+07:25:00,26/03/2026,Americano,0,1,0,Yes,0,Coburt
+07:27:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+07:29:00,26/03/2026,Americano,Decaf,1,0,No,0,Coburt
+07:30:00,26/03/2026,Latte,Regular,1,0,No,0,Coburt
+07:31:00,28/03/2026,Chai Latte,Regular,1,0,No,0,Coburt
+07:33:00,26/03/2026,Coke Cola,0,1,0,No,0,Coburt
+07:31:00,26/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:33:00,26/03/2026,Green tea,0,1,0,No,0,Coburt
+07:34:00,26/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:36:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+07:37:00,26/03/2026,Chai Latte,Regular,1,0,No,0,Coburt
+07:37:00,26/03/2026,Americano,0,2,0,No,0,Coburt
+07:37:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+07:39:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+07:38:00,26/03/2026,Flat White,Regular,1,0,No,0,Coburt
+07:38:00,26/03/2026,Green tea,0,2,0,No,0,Coburt
+07:41:00,26/03/2026,Flat White,Regular,1,0,No,0,Coburt
+07:45:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+07:45:00,26/03/2026,Cortado,Regular,1,0,No,0,Coburt
+07:45:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+07:48:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+07:48:00,26/03/2026,Chai Latte,Regular,1,0,Yes,0,Coburt
+07:48:00,26/03/2026,Green tea,0,1,0,No,0,Coburt
+07:49:00,26/03/2026,Flat White,Regular,1,0,No,0,Coburt
+07:49:00,26/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+07:52:00,26/03/2026,Flat White,Coconut,1,0,No,0,Coburt
+07:52:00,26/03/2026,D Espresso,0,1,0,Yes,0,Coburt
+07:53:00,25/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+07:52:00,26/03/2026,Latte,Regular,1,0,No,0,Coburt
+07:54:00,26/03/2026,Latte,Regular,1,0,No,0,Coburt
+07:54:00,26/03/2026,Americano,0,2,0,No,0,Coburt
+07:56:00,26/03/2026,D Espresso,0,1,0,No,0,Coburt
+08:01:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+08:02:00,26/03/2026,Flat White,0,1,0,No,0,Coburt
+08:04:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:05:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+08:06:00,26/03/2026,Cappuccino,0,1,0,No,0,Coburt
+08:07:00,25/03/2026,Latte,Regular,1,0,No,0,Coburt
+08:07:00,25/03/2026,Orange Juice,,2,0,No,0,Coburt
+08:07:00,26/03/2026,Latte,Regular,1,0,No,0,Coburt
+08:12:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+08:12:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+08:12:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:15:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+08:16:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+08:20:00,26/03/2026,D Espresso,0,1,0,No,0,Coburt
+08:21:00,26/03/2026,Flat White,Regular,1,0,No,0,Coburt
+08:27:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:27:00,26/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+08:28:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+08:28:00,26/03/2026,Latte,Regular,2,0,No,Vanilla,Coburt
+08:27:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:32:00,26/03/2026,Latte,Regular,1,0,No,0,Coburt
+08:32:00,26/03/2026,ICE Latte,OAT MILK,1,0,No,0,Coburt
+08:32:00,26/03/2026,Americano,0,2,0,No,0,Coburt
+08:39:00,26/03/2026,ICE Latte,Regular,1,0,Yes,0,Coburt
+08:42:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+08:41:00,26/03/2026,Small French P,0,1,0,No,0,Coburt
+08:41:00,26/03/2026,Large French P,0,1,0,No,0,Coburt
+08:45:00,26/03/2026,Flat White,Regular,1,0,No,0,Coburt
+08:45:00,26/03/2026,Large French P,0,1,0,No,0,Coburt
+08:45:00,26/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+08:45:00,26/03/2026,Latte,Regular,1,0,No,0,Coburt
+08:45:00,26/03/2026,Americano,0,2,0,No,0,Coburt
+08:47:00,26/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+08:46:00,26/03/2026,Large French P,0,1,0,No,0,Coburt
+08:46:00,26/03/2026,Latte,Regular,1,0,Yes,0,Coburt
+08:47:00,26/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+08:48:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+08:49:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:50:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:50:00,26/03/2026,Americano,0,2,0,No,0,Coburt
+08:52:00,26/03/2026,Cappuccino,Skinny,1,0,Yes,0,Coburt
+08:53:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:53:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+08:56:00,26/03/2026,Latte,OAT MILK,1,0,No,0,Coburt
+09:00:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+09:00:00,26/03/2026,Small French P,0,2,0,No,0,Coburt
+09:03:00,26/03/2026,Small French P,0,1,0,No,0,Coburt
+09:05:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+09:03:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+09:06:00,26/03/2026,Large French P,0,1,0,No,0,Coburt
+09:07:00,26/03/2026,Small French P,0,1,0,No,0,Coburt
+09:07:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+09:12:00,26/03/2026,M French P,0,1,0,No,0,Coburt
+09:12:00,26/03/2026,Latte,Regular,2,0,No,Vanilla,Coburt
+09:16:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+09:15:00,26/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+09:25:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+09:28:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+09:28:00,26/03/2026,Americano,0,2,0,No,0,Coburt
+09:25:00,26/03/2026,Green tea,0,1,0,No,0,Coburt
+09:31:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+09:31:00,26/03/2026,Spark Small,0,2,0,No,0,Coburt
+09:31:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+09:39:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+09:39:00,26/03/2026,Americano,0,2,0,No,0,Coburt
+09:38:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:43:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+09:42:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+09:47:00,26/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+09:47:00,26/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+09:57:00,26/03/2026,Latte,Regular,1,0,No,0,Coburt
+09:49:00,26/03/2026,ICE Latte,Regular,1,0,No,Vanilla,Coburt
+09:50:00,26/03/2026,Latte,Decaf Oat,1,0,No,0,Coburt
+09:51:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+09:49:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+09:49:00,26/03/2026,Americano,0,2,0,No,0,Coburt
+09:55:00,26/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+09:56:00,26/03/2026,Flat White,Regular,1,0,No,0,Coburt
+09:56:00,26/03/2026,Flat White,Regular,2,0,No,0,Coburt
+09:56:00,26/02/2026,Flat White,Regular,3,0,No,0,Coburt
+09:57:00,26/03/2026,Coke Cola,Regular,1,0,No,0,Coburt
+10:01:00,26/03/2026,Americano,Decaf,1,0,No,0,Coburt
+10:01:00,26/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+06:35:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+09:49:00,26/03/2026,ICE Latte,Regular,1,0,No,Vanilla,Coburt
+09:50:00,26/03/2026,Cappuccino,OAT MILK,1,0,No,0,Coburt
+10:01:00,26/03/2026,Tea Iris Break,0,1,0,Yes,0,Coburt
+10:01:00,26/03/2026,Latte,Regular,1,0,Yes,0,Coburt
+10:05:00,26/03/2026,Cappuccino,Regular,1,0,Yes,0,Coburt
+10:05:00,26/03/2026,ICE Americano,0,2,0,Yes,0,Coburt
+10:05:00,26/03/2026,ICE Americano,0,1,0,No,0,Coburt
+10:05:00,26/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+10:11:00,26/03/2026,ICE Latte,Regular,1,0,No,0,Coburt
+10:17:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+10:17:00,26/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+10:16:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+10:16:00,26/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+10:22:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+10:22:00,26/03/2026,Americano,0,2,0,No,0,Coburt
+10:31:00,26/03/2026,Cortado,Regular,1,0,No,0,Coburt
+10:31:00,26/03/2026,D Espresso,0,2,0,No,0,Coburt
+10:36:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+10:36:00,26/03/2026,Americano,0,2,0,No,0,Coburt
+06:35:00,28/03/2026,Chai Latte,Regular,1,0,No,0,Coburt
+06:35:00,28/03/2026,Latte,Regular,2,0,No,Caramel,Coburt
+06:35:00,28/03/2026,Latte,Regular,3,0,No,Caramel,Coburt
+06:35:00,28/03/2026,Mocha,Regular,4,0,No,0,Coburt
+06:38:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+06:40:00,28/03/2026,Cappuccino,OAT MILK,1,0,No,0,Coburt
+06:50:00,28/03/2026,Cappuccino,OAT MILK,1,0,No,0,Coburt
+06:50:00,28/03/2026,Ice Green Tea,0,2,0,No,0,Coburt
+06:54:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+06:58:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:02:00,28/03/2026,Large French P,0,1,0,No,0,Coburt
+07:02:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:10:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+07:10:00,28/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+07:14:00,28/03/2026,Flat White,Regular,1,0,No,0,Coburt
+07:18:00,28/03/2026,ICE Latte,Regular,1,0,No,0,Coburt
+07:20:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+07:20:00,28/03/2026,Latte,OAT MILK,2,0,No,0,Coburt
+07:28:00,28/03/2026,Cappuccino,Regular,1,0,Yes,0,Coburt
+07:35:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:35:00,28/03/2026,Hot Chocolate,Regular,1,0,No,0,Coburt
+07:38:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+07:40:00,28/03/2026,Flat White,Regular,1,0,No,0,Coburt
+07:40:00,28/03/2026,Flat White,Regular,2,0,No,0,Coburt
+07:37:00,28/03/2026,Latte,Regular,1,0,No,0,Coburt
+07:37:00,28/03/2026,Americano,Regular,2,0,No,0,Coburt
+07:58:00,28/03/2026,Latte,Regular,1,0,No,0,Coburt
+07:58:00,28/03/2026,Latte,Regular,2,0,No,0,Coburt
+07:58:00,28/03/2026,Large French P,0,3,0,No,0,Coburt
+07:54:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+07:54:00,28/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+07:50:00,28/03/2026,Large French P,0,1,0,No,0,Coburt
+07:49:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+07:49:00,28/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+07:49:00,28/03/2026,Americano,0,3,0,No,0,Coburt
+07:47:00,28/03/2026,Latte,Regular,1,0,Yes,0,Coburt
+07:39:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:39:00,28/03/2026,Hot Chocolate,Regular,2,0,No,0,Coburt
+08:05:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:05:00,28/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+08:08:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:08:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+08:10:00,28/03/2026,Latte,Regular,1,0,No,0,Coburt
+08:13:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:13:00,28/03/2026,Flat White,Regular,1,0,No,0,Coburt
+08:13:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+08:17:00,28/03/2026,Green tea,0,1,0,No,0,Coburt
+08:24:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+08:24:00,28/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+08:24:00,28/03/2026,Flat White,Regular,3,0,No,0,Coburt
+08:26:00,28/03/2026,Hot Chocolate,Regular,1,0,No,0,Coburt
+08:28:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:29:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:30:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:30:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:35:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:35:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:35:00,28/03/2026,Latte,Almond,1,0,No,Caramel,Coburt
+08:35:00,28/03/2026,Latte,Almond,2,0,No,Caramel,Coburt
+08:36:00,28/03/2026,Flat White,Regular,1,0,No,0,Coburt
+08:36:00,28/03/2026,Flat White,Regular,2,0,No,0,Coburt
+08:36:00,28/03/2026,Tea Iris Break,0,3,0,No,0,Coburt
+08:39:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:39:00,28/03/2026,Latte,Almond,1,0,No,Caramel,Coburt
+08:39:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+08:39:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+08:39:00,28/03/2026,Latte,Regular,2,0,No,0,Coburt
+08:40:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:40:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+08:45:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:45:00,28/03/2026,Flat White,Skinny,2,0,No,0,Coburt
+08:45:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:41:00,28/03/2026,Hot Chocolate,Regular,1,0,No,0,Coburt
+08:41:00,28/03/2026,D Espresso,0,1,0,No,0,Coburt
+08:53:00,28/03/2026,Latte,Almond,1,0,No,Caramel,Coburt
+08:51:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:51:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+08:51:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:52:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:47:00,28/03/2026,Latte,Regular,1,0,No,Vanilla,Coburt
+09:02:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+09:02:00,28/03/2026,Flat White,Regular,2,0,No,0,Coburt
+09:02:00,28/03/2026,Latte,Almond,3,0,No,Caramel,Coburt
+08:57:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:57:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+08:59:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:59:00,28/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+08:59:00,28/03/2026,Cappuccino,OAT MILK,1,0,No,0,Coburt
+08:57:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+08:57:00,28/03/2026,Americano,OAT MILK,2,0,No,0,Coburt
+08:56:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:04:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:04:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+09:07:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+09:01:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+09:38:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:38:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+09:36:00,28/03/2026,Large French P,0,1,0,No,0,Coburt
+09:37:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:32:00,28/03/2026,Latte,Regular,1,0,No,0,Coburt
+09:32:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:34:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:34:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+09:32:00,28/03/2026,Small French P,0,1,0,No,0,Coburt
+09:32:00,28/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+09:27:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:26:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:26:00,28/03/2026,Tea Camomile,0,2,0,No,0,Coburt
+09:26:00,28/03/2026,Tea Early Grey,0,3,0,No,0,Coburt
+09:24:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+09:23:00,28/03/2026,Americano,0,1,0,Yes,0,Coburt
+09:23:00,28/03/2026,Americano,0,2,0,Yes,0,Coburt
+09:20:00,28/03/2026,Large French P,0,1,0,No,0,Coburt
+09:20:00,28/03/2026,Latte,Regular,1,0,No,Vanilla,Coburt
+09:17:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+09:11:00,28/03/2026,Large French P,0,1,0,No,0,Coburt
+09:10:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:04:00,28/03/2026,D Espresso,0,1,0,No,0,Coburt
+09:04:00,28/03/2026,D Espresso,0,2,0,No,0,Coburt
+09:35:00,28/03/2026,Latte,Regular,1,0,Yes,0,Coburt
+09:35:00,28/03/2026,Americano,0,2,0,Yes,0,Coburt
+09:37:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+09:43:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:43:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+09:43:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:43:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+09:39:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+06:41:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+06:41:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+06:41:00,28/03/2026,Tea Iris Break,0,3,0,No,0,Coburt
+06:41:00,28/03/2026,Tea Iris Break,0,4,0,No,0,Coburt
+09:59:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+10:00:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+10:00:00,28/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+10:00:00,28/03/2026,Flat White,Regular,1,0,No,0,Coburt
+10:00:00,28/03/2026,Flat White,Regular,2,0,No,0,Coburt
+09:58:00,28/03/2026,Flat White,Skinny,1,0,No,0,Coburt
+09:58:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+09:56:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:56:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+09:56:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+09:56:00,28/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+09:55:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+09:51:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:51:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+09:51:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+09:47:00,28/03/2026,Tea PP Mint,0,1,0,No,0,Coburt
+09:47:00,28/03/2026,Large French P,0,2,0,No,0,Coburt
+09:43:00,28/03/2026,Small French P,0,1,0,No,0,Coburt
+09:41:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+09:42:00,28/03/2026,Latte,Regular,1,0,No,Caramel,Coburt
+10:01:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+10:08:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+10:08:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+10:08:00,26/03/2026,Americano,0,1,0,No,0,Coburt
+10:08:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+10:09:00,28/03/2026,Flat White,Regular,1,0,No,0,Coburt
+10:11:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+10:16:00,28/03/2026,Tea PP Mint,0,1,0,No,0,Coburt
+10:16:00,28/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+10:18:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+10:26:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+10:26:00,28/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+10:26:00,28/03/2026,Cappuccino,Regular,3,0,No,0,Coburt
+10:26:00,28/03/2026,D Espresso,0,4,0,No,0,Coburt
+10:27:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+10:22:00,28/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+10:22:00,28/03/2026,Cappuccino,Skinny,2,0,No,0,Coburt
+10:22:00,28/03/2026,Americano,0,3,0,No,0,Coburt
+10:22:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+10:24:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+10:29:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+10:26:00,28/03/2026,Small French P,0,1,0,No,0,Coburt
+10:29:00,28/03/2026,Flat White,Regular,1,0,No,0,Coburt
+10:29:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+10:33:00,28/03/2026,Espresso,0,1,0,No,0,Coburt
+10:36:00,28/03/2026,Americano,0,1,0,Yes,0,Coburt
+10:39:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+10:39:00,28/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+10:45:00,28/03/2026,Cortado,Regular,1,0,No,0,Coburt
+10:44:00,28/03/2026,Cappuccino,Skinny,1,0,No,0,Coburt
+10:53:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+11:14:00,28/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+11:15:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+11:15:00,28/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+11:15:00,28/03/2026,Americano,0,1,0,No,0,Coburt
+11:15:00,28/03/2026,Americano,0,2,0,No,0,Coburt
+06:48:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+06:48:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+06:53:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+06:53:00,29/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+06:59:00,29/03/2026,Cappuccino,Regular,1,0,Yes,0,Coburt
+07:07:00,29/03/2026,Flat White,Regular,1,0,No,0,Coburt
+07:09:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+07:11:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+07:25:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+07:25:00,29/03/2026,Flat White,Regular,2,0,No,0,Coburt
+07:28:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+07:42:00,29/03/2026,Latte,Regular,1,0,No,0,Coburt
+07:42:00,29/03/2026,Cappuccino,OAT MILK,2,0,No,0,Coburt
+11:06:00,29/03/2026,Cappuccino,Regular,1,0,No,Vanilla,Coburt
+11:06:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+07:44:00,29/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+07:44:00,29/03/2026,Green tea,0,2,0,No,0,Coburt
+07:47:00,29/03/2026,Latte,Regular,1,0,No,0,Coburt
+07:47:00,29/03/2026,Latte,Regular,2,0,No,0,Coburt
+07:48:00,29/03/2026,Macchiato,OAT MILK,1,0,No,Caramel,Coburt
+07:48:00,29/03/2026,Latte,Almond,2,0,No,0,Coburt
+07:48:00,29/03/2026,Hot Chocolate,Regular,3,0,No,0,Coburt
+07:48:00,29/03/2026,Hot Chocolate,Regular,4,0,No,0,Coburt
+07:50:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+08:00:00,29/03/2026,Latte,Soya,1,0,Yes,0,Coburt
+07:59:00,29/03/2026,Latte,Almond,1,0,No,Caramel,Coburt
+07:59:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+08:03:00,29/03/2026,Large French P,0,1,0,No,0,Coburt
+08:08:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+08:08:00,29/03/2026,Americano,Almond,2,0,No,0,Coburt
+08:13:00,29/03/2026,Cappuccino,OAT MILK,1,0,No,0,Coburt
+08:13:00,29/03/2026,Latte,Almond,1,0,No,0,Coburt
+08:14:00,29/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+08:17:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:18:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:23:00,29/03/2026,Latte,0,1,0,No,0,Coburt
+08:25:00,29/03/2026,Cappuccino,OAT MILK,1,0,Yes,0,Coburt
+08:29:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+08:30:00,29/03/2026,Americano,Cream OTS,1,0,Yes,0,Coburt
+08:33:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:33:00,29/03/2026,Tea PP Mint,0,2,0,No,0,Coburt
+08:34:00,29/03/2026,Latte,Regular,1,0,No,0,Coburt
+08:34:00,29/03/2026,Latte,Regular,2,0,No,0,Coburt
+08:36:00,29/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+08:36:00,29/03/2026,Latte,Almond,2,0,No,0,Coburt
+08:36:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+08:33:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:36:00,29/03/2026,Large French P,0,1,0,No,0,Coburt
+08:41:00,29/03/2026,Cappuccino,OAT MILK,1,0,Yes,0,Coburt
+08:43:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+08:43:00,29/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+08:46:00,29/03/2026,Cappuccino,OAT MILK,1,0,No,0,Coburt
+08:50:00,29/03/2026,Large French P,0,1,0,No,0,Coburt
+08:47:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:47:00,29/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+08:51:00,29/03/2026,Cappuccino,Regular,1,0,Yes,0,Coburt
+08:51:00,29/03/2026,Latte,Regular,2,0,Yes,0,Coburt
+08:53:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:53:00,29/03/2026,Small French P,0,2,0,No,0,Coburt
+08:54:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:56:00,29/03/2026,Americano,0,1,0,Yes,0,Coburt
+08:56:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+08:56:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+08:58:00,29/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+08:58:00,29/03/2026,Latte,Almond,2,0,No,0,Coburt
+09:01:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:01:00,29/03/2026,Tea PP Mint,0,2,0,No,0,Coburt
+09:07:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:07:00,29/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+09:07:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:08:00,29/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+09:10:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:10:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:12:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:12:00,29/03/2026,Latte,Regular,2,0,No,0,Coburt
+09:13:00,29/03/2026,Espresso,0,1,0,No,0,Coburt
+09:13:00,29/03/2026,Espresso,0,2,0,No,0,Coburt
+09:13:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:14:00,29/03/2026,Small French P,0,1,0,No,0,Coburt
+09:14:00,29/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+09:15:00,29/03/2026,Large French P,0,1,0,No,0,Coburt
+09:10:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:10:00,29/03/2026,Flat White,Regular,2,0,No,0,Coburt
+09:15:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:15:00,29/03/2026,Flat White,Skinny,2,0,No,0,Coburt
+09:18:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+09:18:00,29/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+09:19:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:19:00,29/03/2026,Tea Limon & G,0,2,0,No,0,Coburt
+09:21:00,29/03/2026,Tea Early Grey,0,1,0,No,0,Coburt
+09:21:00,29/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+09:21:00,29/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+09:21:00,29/03/2029,Cappuccino,Regular,2,0,No,0,Coburt
+09:21:00,29/03/2029,Hot Chocolate,Regular,3,0,No,0,Coburt
+09:25:00,29/03/2029,Latte,Regular,1,0,No,0,Coburt
+09:27:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:30:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:31:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:32:00,29/03/2026,Latte,Regular,1,0,No,0,Coburt
+09:32:00,29/03/2026,Latte,Regular,2,0,No,0,Coburt
+09:33:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:34:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:34:00,29/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+09:36:00,29/03/2026,Latte,Regular,1,0,No,Caramel,Coburt
+09:38:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:38:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+09:38:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+09:37:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+09:37:00,29/03/2026,Flat White,Regular,2,0,No,0,Coburt
+09:39:00,29/03/2026,Cappuccino,Regular,1,0,Yes,0,Coburt
+09:39:00,29/03/2026,Americano,0,2,0,Yes,0,Coburt
+09:39:00,29/03/2026,Americano,0,3,0,No,0,Coburt
+09:40:00,29/03/2026,Americano,0,1,0,Yes,0,Coburt
+09:40:00,29/03/2026,Flat White,Skinny,2,0,Yes,0,Coburt
+09:38:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:40:00,29/03/2026,Latte,Regular,1,0,Yes,0,Coburt
+09:45:00,29/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+09:45:00,29/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+09:45:00,29/03/2026,Americano,0,3,0,No,0,Coburt
+09:45:00,29/03/2026,Americano,0,4,0,No,0,Coburt
+09:50:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:50:00,29/03/2026,Tea PP Mint,0,1,0,No,0,Coburt
+09:53:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:53:00,29/03/2026,Chai Latte,Regular,1,0,No,0,Coburt
+09:49:00,29/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+09:49:00,29/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+09:56:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+09:56:00,29/03/2026,ICE Latte,Regular,2,0,No,Vanilla,Coburt
+09:57:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+09:57:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+10:06:00,29/03/2026,Large French P,Soya,1,0,No,0,Coburt
+10:07:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+10:07:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+10:07:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+10:07:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+10:09:00,29/03/2026,Flat White,Regular,1,0,No,0,Coburt
+10:11:00,29/03/2026,Large French P,0,1,0,No,0,Coburt
+10:13:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+10:13:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+10:14:00,29/03/2026,Hot Chocolate,Regular,1,0,No,0,Coburt
+10:17:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+10:17:00,29/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+10:18:00,29/03/2026,Large French P,0,1,0,No,0,Coburt
+10:19:00,29/03/2026,Espresso,0,1,0,No,0,Coburt
+10:19:00,29/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+10:22:00,29/03/2026,Cappuccino,Skinny,1,0,No,0,Coburt
+10:22:00,29/03/2026,Cappuccino,Skinny,2,0,No,0,Coburt
+10:22:00,29/03/2026,Americano,,3,0,No,0,Coburt
+10:23:00,29/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+10:23:00,29/03/2026,Small French P,0,2,0,No,0,Coburt
+10:28:00,29/03/2026,Americano,Decaf,1,0,No,0,Coburt
+10:28:00,29/03/2026,Americano,,1,0,No,0,Coburt
+10:29:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+10:29:00,29/03/2026,Tea Iris Break,0,2,0,No,0,Coburt
+10:30:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+10:30:00,29/03/2026,Tea PP Mint,0,2,0,No,0,Coburt
+10:33:00,29/03/2026,Small French P,0,1,0,No,0,Coburt
+10:34:00,29/03/2026,Tea Iris Break,OAT MILK,1,0,No,0,Coburt
+10:37:00,29/03/2026,Large French P,0,1,0,No,0,Coburt
+10:39:00,29/03/2026,Tea PP Mint,0,1,0,No,0,Coburt
+10:39:00,29/03/2026,Tea Early Grey,0,2,0,No,0,Coburt
+10:39:00,29/03/2026,Hot Chocolate,Regular,1,0,No,0,Coburt
+10:39:00,29/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+10:41:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+10:41:00,29/03/2026,Green tea,0,2,0,No,0,Coburt
+10:43:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+10:45:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+10:45:00,29/03/2026,Cappuccino,Regular,2,0,No,0,Coburt
+10:47:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+10:47:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+10:47:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+10:47:00,29/03/2026,Americano,0,3,0,No,0,Coburt
+10:47:00,29/03/2026,Americano,0,4,0,No,0,Coburt
+10:49:00,29/03/2026,Espresso,0,1,0,No,0,Coburt
+10:47:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+10:47:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+10:48:00,29/03/2026,M French P,0,1,0,No,0,Coburt
+10:51:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+10:51:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+10:51:00,29/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+10:53:00,29/03/2026,Americano,0,1,0,No,0,Coburt
+10:55:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+10:55:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+06:23:00,2026'03/29,Tea Camomile,0,1,0,No,0,Coburt
+06:23:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+10:57:00,29/03/2026,Cappuccino,Regular,1,0,No,0,Coburt
+10:57:00,29/03/2026,Americano,0,2,0,No,0,Coburt
+10:52:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+11:00:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
+11:05:00,29/03/2026,Tea PP Mint,0,1,0,No,0,Coburt
+11:06:00,29/03/2026,Tea Iris Break,0,1,0,No,0,Coburt
