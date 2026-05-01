@@ -3,54 +3,71 @@ import sqlite3
 conn = sqlite3.connect("HOSPITALITY_coffee.db")
 cursor = conn.cursor()
 
-#Top selling drinks by quantity
+# Top selling drinks by quantity
 print("=== TOP SELLING DRINKS ===")
-cursor.execute("SELECT drink_name, COUNT(*) FROM sales GROUP BY drink_name ORDER BY COUNT(*) DESC")
+cursor.execute("""
+    SELECT drink_name, COUNT(*) AS total
+    FROM sales
+    GROUP BY drink_name
+    ORDER BY total DESC
+""")
 for row in cursor.fetchall():
     print(row)
 
-#TOP drinks by revenue
+# Top drinks by revenue
 print("\n=== TOP DRINKS BY REVENUE ===")
 cursor.execute("""
-               SELECT drink_name, SUM(revenue) AS total_revenue
-               FROM sales
-               GROUP BY drink_name
-               ORDER BY total_revenue DESC
-               """)
-for row in cursor.fetchall():
-
-# Sales by Location
- print("\n=== SALES BY LoCATION ===")
-cursor.execute("""
-               SELECT location, COUNT(*) AS total_sales
-               FROM  sales
-               GROUP BY location
-               ORDER BY total_sales DESC
-               """)
+    SELECT drink_name, SUM(revenue) AS total_revenue
+    FROM sales
+    GROUP BY drink_name
+    ORDER BY total_revenue DESC
+""")
 for row in cursor.fetchall():
     print(row)
 
-#Sales by day
+# Sales by location
+print("\n=== SALES BY LOCATION ===")
+cursor.execute("""
+    SELECT location, COUNT(*) AS total_sales
+    FROM sales
+    GROUP BY location
+    ORDER BY total_sales DESC
+""")
+for row in cursor.fetchall():
+    print(row)
+
+# Sales by day
 print("\n=== SALES BY DAY ===")
 cursor.execute("""
-               SELECT sale_date, COUNT(*) AS total
-               FROM sales
-               """)
+    SELECT sale_date, COUNT(*) AS total
+    FROM sales
+    GROUP BY sale_date
+    ORDER BY sale_date
+""")
 for row in cursor.fetchall():
     print(row)
 
-
-#MOST popular drink by hour
+# Busiest hours
 print("\n=== BUSIEST HOURS ===")
-cursor.execute("SELECT location, SUM(revenue) AS total_revenue FROM sales GROUP BY sale_hour ORDER BY total_revenue DESC LIMIT 5")
+cursor.execute("""
+    SELECT sale_hour, COUNT(*) AS total
+    FROM sales
+    GROUP BY sale_hour
+    ORDER BY total DESC
+    LIMIT 5
+""")
 for row in cursor.fetchall():
-   print(row)
+    print(row)
 
-# Lemuels revenue total
-print("\=== LEMUELS TOTAL REVENUE ===")
-cursor.execute("SELECT location, SUM(revenue) AS total_revenue FROM sales WHERE location = 'lemuels' GROUP BY location")
+# Lemuels total revenue
+print("\n=== LEMUELS TOTAL REVENUE ===")
+cursor.execute("""
+    SELECT location, SUM(revenue) AS total_revenue
+    FROM sales
+    WHERE location = 'Lemuels'
+    GROUP BY location
+""")
 for row in cursor.fetchall():
-   print(row)   
-    
+    print(row)
+
 conn.close()
-                
