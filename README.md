@@ -2,7 +2,7 @@
 
 ## Overview
 Real-world data analysis project using SQL and Python, based on actual sales data from two hospitality venues:
-- **Cowboy** — breakfast venue
+- **Coburt** — breakfast venue
 - **Lemuels** — hotel bar
 
 ## Dataset
