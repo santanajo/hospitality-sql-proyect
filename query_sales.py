@@ -50,9 +50,9 @@ for row in cursor.fetchall():
 # Busiest hours
 print("\n=== BUSIEST HOURS ===")
 cursor.execute("""
-    SELECT sale_hour, COUNT(*) AS total
+    SELECT SUBSTR(sale_hour, 1, 2) AS hour, COUNT(*) AS total
     FROM sales
-    GROUP BY sale_hour
+    GROUP BY hour
     ORDER BY total DESC
     LIMIT 5
 """)
