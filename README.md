@@ -112,4 +112,3 @@ hospitality-sql-proyect/
 └── README.md
 ```
 
-Guarda con **Ctrl + S** y luego ejecuta:
